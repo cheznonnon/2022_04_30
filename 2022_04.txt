@@ -12,6 +12,34 @@
 Change Log
 
 
+2022/04/30 #1 : 2022/05/01
+
+
+BUGFIX
+
+
+	win32/win_txtbox.c
+		ONELINE
+			OLD : not redrawn
+			NEW : fixed
+			[!] : caret blinking code had a bug
+		caret blinking
+			OLD : relative speed
+			NEW : absolute spped
+
+	Nonno Paint
+		Multi-Layer : rename
+			OLD : not redrawn
+			NEW : fixed
+			[x] : BUGFIX @ 2022/04/30
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/04/30
 
 
